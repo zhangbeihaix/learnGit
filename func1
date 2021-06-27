@@ -1,2 +1,5 @@
+def good():
+	print("good")
+
 iiiii1
 11
