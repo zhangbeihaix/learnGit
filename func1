@@ -3,3 +3,7 @@ def good():
 
 iiiii1
 11
+
+
+def hello():
+	print("hello")
